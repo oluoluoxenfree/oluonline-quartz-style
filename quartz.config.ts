@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       siteId: "oluonline",
     },
     locale: "en-US", // TODO: Change to "en-GB" if possible
-    baseUrl: "olu.online",
+    baseUrl: "notes.olu.online",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
