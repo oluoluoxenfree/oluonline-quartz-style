@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@font-face {
+    font-family: "JohtoSans-Regular";
+    src: url("./static/fonts/JohtoSans-Regular.woff2") format("woff2"),
+        url("./static/fonts/JohtoSans-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "JohtoMono-Regular";
+    src: url("./static/fonts/JohtoMono-Regular.woff2") format("woff2"),
+        url("./static/fonts/JohtoMono-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}

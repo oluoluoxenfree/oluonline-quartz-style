@@ -15,7 +15,7 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: "JohtoSans-Regular";
   color: var(--darkgray);
 }
 
@@ -204,6 +204,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
+    font-size: 0.9rem;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
@@ -263,7 +264,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: "JohtoSans-Regular";
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
