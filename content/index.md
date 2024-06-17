@@ -9,4 +9,14 @@ this [digital garden](https://maggieappleton.com/garden-history) is for thinking
 
 please [get in touch](https://olu.online/contact) if anything strikes a nerve or speaks to you, or you have something else to share.
 
-wishing you more than well.
+## Currently thinking about:
+
+- [[luddites]]
+- [[small web]]
+- [[tiny internets]]
+- [[permacomputing]]
+- [[anti-universities]]
+
+--- 
+
+wishing you more than well. 💟
