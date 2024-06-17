@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "tinylytics",
-      siteId: "oluonline",
+      siteId: "ZH1b5QAYiCP64EyyFGuJ",
     },
     locale: "en-US", // TODO: Change to "en-GB" if possible
     baseUrl: "notes.olu.online",
