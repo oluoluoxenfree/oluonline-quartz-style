@@ -1,6 +1,8 @@
 ---
 last_updated: 2024-06-29T00:31:00
 ---
+## live and kicking
+
 [[small tech]]
 [[small web]]
 [[indie web]]
@@ -18,12 +20,12 @@ last_updated: 2024-06-29T00:31:00
 [[community tech partnership]]
 Sustainable Human-Computer Interaction (SHCI)
 ICT for Sustainability (ICT4S)
-Environmentally Sound Technologie 
+Environmentally Sound Technologies
 Crisis Informatics
 benign computing
 ICT for Development (ICTD)
 
-historical:
+## historical:
 
 liberatory technology 
 appropriate technology
