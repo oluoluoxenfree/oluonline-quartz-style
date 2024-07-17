@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       blog: "https://olu.online/blog",
       projects: "https://olu.online/projects",
       "tip me": "https://olu.online/coffee",
+      rss: "https://notes.olu.online/index.xml",
     },
   }),
 }
