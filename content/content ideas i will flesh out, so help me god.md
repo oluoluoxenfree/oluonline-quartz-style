@@ -58,7 +58,10 @@ coverImage: null
 47. wtf is digital citizenship; does it make sense?
 48. evisas????? safe? cheaper? what's the benefit to gov and are there any for non-gov people?
 49. anti-capture technology
-50. technopaganism/technomancy and you
+50. [[technopaganism, technomancy and me]]
+51. citizen science and how the internet and tech have enabled and crushed it
+52. [[tech hasn't made the business of fashion any less ugly]]
+53. 
 
 
 
