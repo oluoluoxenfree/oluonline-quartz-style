@@ -11,6 +11,10 @@ please [get in touch](https://olu.online/contact) if anything strikes a nerve or
 
 ## Currently thinking about:
 
+- [[content ideas i have not yet fleshed out, so help me god]]
+
+## Things I have thought about:
+
 trying to think of a term that over-arcs all of the below:
 
 - [[luddites]]
