@@ -17,7 +17,7 @@ coverImage: null
 5. does social media use make you more likely to be mentally ill?
 6. does having a smartphone make you use your brain less, and is that bad?
 7. tech uses water. so. much. water.
-8. subsea cables vs satellite internet connection; why sattelites can't connect the entire planet 
+8. subsea cables vs satellite internet connection; why satellites can't connect the entire planet 
 9. ai and medicine seems to be the only good application of the technology
 10. ai and translation services destroying the industry
 11. ai and transcription services destroying the industry
@@ -56,12 +56,17 @@ coverImage: null
 45. can we make the supply chains for our electronics completely ethical? (I have loads of notes for a video on congo and supply chains that never happened but i need to edit it before putting it in the garden lol)
 46. industry plants, industry plans: can streaming sites purposefully make a hit?
 47. wtf is digital citizenship; does it make sense?
-48. evisas????? safe? cheaper? what's the benefit to gov and are there any for non-gov people?
+48. e-visas????? safe? cheaper? what's the benefit to gov and are there any for non-gov people?
 49. anti-capture technology
 50. [[technopaganism, technomancy and me]]
 51. citizen science and how the internet and tech have enabled and crushed it
 52. [[tech hasn't made the business of fashion any less ugly]]
-53. 
+53. digital landlordism
+54. our lives online; time, data, privacy
+55. internet archive
+56. what does facebook/google/etc have on you? who profits from your data?
+57. evisas, and the dawn of the id card; digital identity is....? 
+58. time zones are weird af
 
 
 
