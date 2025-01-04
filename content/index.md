@@ -11,6 +11,7 @@ please [get in touch](https://olu.online/contact) if anything strikes a nerve or
 
 ## Currently thinking about:
 
+- [[early internet lessons]]
 - [[content ideas i will flesh out, so help me god]]
 
 ## Things I have thought about:
