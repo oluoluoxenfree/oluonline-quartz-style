@@ -6,7 +6,7 @@ last_updated: 2025-01-04T15:56:00
 - is it supposed to look like that? UX, UI, and creativity on the early internet
 - should everyone be technical?
 	- i don't think this is necessary or desirable but a lot of people tell me basic x or rudimentary y is "required to be part of society", seems ableist on some level but maybe i am tripping?
-	- [the future will be technical by Zach Mandeville is an example of this view, need to re-read](https://coolguy.website/the-future-will-be-technical/
+	- [the future will be technical by Zach Mandeville is an example of this view, need to re-read](https://coolguy.website/the-future-will-be-technical/)
 - We used to be offline; now we're just AFK
 	- too obvs?
 - it didn't have to be like this: "rewilding the web"
