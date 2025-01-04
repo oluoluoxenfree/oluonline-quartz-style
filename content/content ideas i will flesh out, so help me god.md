@@ -66,7 +66,9 @@ coverImage: null
 55. internet archive
 56. what does facebook/google/etc have on you? who profits from your data?
 57. evisas, and the dawn of the id card; digital identity is....? 
-58. time zones are weird af
+58. time zones are weird af - coding them is a nightmare i assume?
+59. sparkle emoji signfies ai; other examples of new symbolism 
+60. fable and llm oopsies
 
 
 
