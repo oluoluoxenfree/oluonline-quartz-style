@@ -1,0 +1,3 @@
+- [disability driven development](https://damaged.bleu255.com/Disability_Driven_Development/)
+- [spoonstack, blog of the originator of the term, Amelia Laumann](https://spoonstack.org/)
+- [crip technoscience manifesto](https://catalystjournal.org/index.php/catalyst/article/view/29607/24772)
