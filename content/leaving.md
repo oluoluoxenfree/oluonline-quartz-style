@@ -14,7 +14,7 @@ the rest have actually already left whichever social media platform you are thin
 
 being the kind of person i am, i am looking for an answer to the eternal question of social media. does it have to be shit? does it have to lead to danger and death and suicide and eating disorders, or influencers and fame and fortune and documenting every second of your life for views? must we be online to be connected? must i be online to be happy?
 
-an answer to all this is often touted to be setting up a newsletter — not a substack, of course — and directly messaging your friends and/or audience, instead of leaving yourself open to public, capitalist capture, and all manner of other evilds. we should create web rings and be free! go back in the blissful trappings of web 1.0 or even web 0— texts and emails or gtfo. maybe a bit of a private, non-meta group chat like Discord if you're feeling sassy? 
+an answer to all this is often touted to be setting up a newsletter — not a substack, of course — and directly messaging your friends and/or audience, instead of leaving yourself open to public, capitalist capture, and all manner of other evils. we should create web rings and be free! go back in the blissful trappings of web 1.0 or even web 0— texts and emails or gtfo. maybe a bit of a private, non-meta group chat like Discord if you're feeling sassy? 
 
 i have a similar feeling about this — the abandoning of the social media commons to the wolves — as i assume people who worry about monogamous marriage feel as the years tick on. it seems like everyone else is slowly pairing off, and when the game of online musical chairs is done, will i have seat? will i like my seat? and how the hell will i find another if i hate it?
 
