@@ -269,7 +269,8 @@ a {
     & footer {
       margin-left: auto;
       margin-right: auto;
-      width: $pageWidth;
+      min-width: 100%;
+      max-width: 100%;
       font-size: 0.9rem;
     }
   }
