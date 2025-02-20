@@ -271,11 +271,6 @@ a {
       margin-right: auto;
       width: $pageWidth;
       font-size: 0.9rem;
-
-      @media all {
-        width: initial;
-        margin-left: 0;
-      }
     }
   }
 }
