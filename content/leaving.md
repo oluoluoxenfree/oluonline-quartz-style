@@ -6,7 +6,7 @@ tags:
   - alphabet-superset
   - in-progress
 ---
-In [this series](/TAGS/ALPHABET-SUPERSET) i keep circling back around to social media, which i have discussed a lot in [bump/boost](/bump-boost), [discussion](/discussion) and i guess also in [home](/home). i am in some ways tired of thinking about it, and in others feel like i have to say my piece and work through whatever feelings i have.
+In [this series](https://olu.online/blog/?q=alphabet-superset) i keep circling back around to social media, which i have discussed a lot in [bump/boost](/bump-boost), [discussion](/discussion) and i guess also in [home](/home). i am in some ways tired of thinking about it, and in others feel like i have to say my piece and work through whatever feelings i have.
 
 everyone is leaving social media! or at least, thinking about leaving! okay, sorry, i should say corporate social media, the facebooks and twitters of the online world. and to be fair, a lot of them are actually still  in the long process of leaving, myself included. where to? what next? 
 
