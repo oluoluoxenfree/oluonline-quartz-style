@@ -272,7 +272,7 @@ a {
       width: $pageWidth;
       font-size: 0.9rem;
 
-      @media all and (max-width: $fullPageWidth) {
+      @media all {
         width: initial;
         margin-left: 0;
       }
