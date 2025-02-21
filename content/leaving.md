@@ -6,13 +6,13 @@ tags:
   - alphabet-superset
   - in-progress
 ---
-In [this series](https://olu.online/blog/?q=alphabet-superset) i keep circling back around to social media, which i have discussed a lot in [bump/boost](/bump-boost), [discussion](/discussion) and i guess also in [home](/home). i am in some ways tired of thinking about it, and in others feel like i have to say my piece and work through whatever feelings i have.
+In [this series](https://olu.online/blog/?q=alphabet-superset) i keep circling back around to social media; i've discussed in [bump/boost](/bump-boost), [discussion](/discussion) and i guess also in [home](/home). i am in some ways tired of thinking about it, and in others feel like i have to keep saying my piece in order to work through whatever feelings i have[^2]. 
 
-everyone is leaving social media! or at least, thinking about leaving! okay, sorry, i should say corporate social media, the facebooks and twitters of the online world. and to be fair, a lot of them are actually still  in the long process of leaving, myself included. where to? what next? 
+everyone is leaving social media! or at least, thinking about leaving! okay, sorry, i should say corporate social media, the facebooks and twitters of the online world. and to be fair, a lot of them are actually still  in the long process of leaving, myself included. but where are we off to now? what's next? 
 
-the rest have actually already left whichever social media platform you are thinking of. i see goodbye posts from long-standing meme pages, catch on me bluesky posts from people on the periphery of friend and acquaintance, 'we no longer can abide by this platform' posts from small businesses, in legion. 
+ i see goodbye posts from long-standing meme pages, catch on me bluesky posts from people on the periphery of friend and acquaintance, 'we no longer can abide by this platform' posts from small businesses, in legion. 
 
-being the kind of person i am, i am looking for an answer to the eternal question of social media. does it have to be shit? does it have to lead to danger and death and suicide and eating disorders, or influencers and fame and fortune and documenting every second of your life for views? must we be online to be connected? must i be online to be happy?
+being the kind of (extremely online!) person i am, i am constantly looking for a definitive answer to the eternal questions of social media. does it have to be shit? does it have to lead to danger and death and suicide and eating disorders, or influencers and fame and fortune and documenting every second of your life for views? must we be online to be connected? must i be online to be happy?
 
 an answer to all this is often touted to be setting up a newsletter — not a substack, of course — and directly messaging your friends and/or audience, instead of leaving yourself open to public, capitalist capture, and all manner of other evils. we should create web rings and be free! go back in the blissful trappings of web 1.0 or even web 0— texts and emails or gtfo. maybe a bit of a private, non-meta group chat like Discord if you're feeling sassy? 
 
@@ -20,7 +20,7 @@ i have a similar feeling about this — the abandoning of the social media commo
 
 i don't want to go back to having to rely on word of mouth and personal connections for everything in my life. i don't believe the bits and bytes of the internet in any grand sense have a plan for me - i still need to write that piece about technomancy/technopaganism, ugh - but i do think they've allowed me to live a life i love.
 
-to throw myself back to being young, mas and set loose on the internet, though when i was very young a lot of what i was doing was faintly to keenly dangerous, being online saved my life in countless ways. being mad and suicidal was lonely enough, given i and the people around me had no idea what was going on, and having no outlet for that besides relying on those i knew wouldn't have helped me. 
+to throw myself back to being young, mad and loosey goosey on the internet, though when i was very young a lot of what i was doing was faintly to keenly dangerous, being online saved my life in countless ways. being mad and suicidal was lonely enough, given i and the people around me had no idea what was going on, and having no outlet for that besides relying on those i knew wouldn't have helped me. 
 
 even without mental health in the picture, just meeting people i love and care for through the people i happen to be placed near or in community with already felt impossible as a young person. being queer would have been even harder if i had to only ask questions, flirt and get information from people i knew too. i'm belabouring the point, and not the point of this piece, but you get what i mean. if everyone around you is similar, and you are different, relying on them to help you find Weird Things (to them!) is foolhardy. 
 
@@ -34,15 +34,15 @@ i wish i believed free our feeds/ATProto or mastodon/ActivityPub would actually 
 
 people's enjoyment of "the town square" aside, i think it's difficult to trust that these platforms will play nicely on the bluesky side — it is VC funded after all — or that the moderator of your instance will not become overwhelmed by the work and expense of running the platform you rely on, or become or reveal themselves to be terrible in the mastodon/ActivityPub world. 
 
-i'd love to believe in one silver bullet for all these problems, or that deciding that social media in itself is untenable would actually mean good things would happen.
+i'd love to believe in one silver bullet for all these problems, or that deciding that social media in itself is untenable would actually mean good things would happen. for some reason i think turning away is just leaving the big companies to do as they wish with people who aren't able or willing to leave, whether for reasons of their ongoing, platform encouraged social media addiction or because their livelihoods are at stake? or i guess the ultimate reason; not caring or worrying or hand wringing or even knowing about the consequences of carrying on as we are. 
 
-for some reason i think turning away is just leaving the big companies to do as they wish with people who aren't able or willing to leave, whether for reasons of their ongoing, platform encouraged social media addiction or because their livelihoods are at stake, or i guess just not caring or worrying or hand wringing about the consequences of carrying on as we are. 
-
-at the same time i get that boycotts do things, that starving the big platforms of attention en masse would be the one thing that would maybe make them change up their policies. 
+at the same time, i get that boycotts do things. starving the big platforms of attention, clicks, ad revenue en masse would be the one thing that would maybe make them change up their policies[^3]. 
 
 ---
 
 [^1]: i can drive myself insane trying to find resources i loved once, so i have to remind myself i will probably never find this site again with so little information; writing this footnote for me!
+[^2]: we're working it out in the remix, lorde/charli xcx style.
+[^3]: i don't know how you organise a mass boycott of social media, on social media or off, so i will leave that fight to other people.
 
 
 
@@ -56,3 +56,4 @@ you should go read the excellent [erin kissane's wreckage/salvage](https://www.w
 *This piece is part of my attempt at [Alphabet Superset](https://www.alphabetsuperset.com/), a 6-month creative challenge. Other posts so far: [abolition](https://olu.online/abolition/), [bump, boost](https://olu.online/bump-boost/), [culture](https://olu.online/culture/), [discussion](https://olu.online/discussion/), [english](https://olu.online/english/), [formulaic](https://olu.online/formulaic/) and [gone](https://olu.online/gone/).*
 
 
+[^3]: 

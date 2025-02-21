@@ -1,5 +1,6 @@
 ---
 title: welcome to the garden 🌿
+comments: "false"
 ---
 hello there! i'm [Olu](https://olu.online/about).
 

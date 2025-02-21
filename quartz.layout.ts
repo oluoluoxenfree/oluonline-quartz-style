@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'oluoluoxenfree/oluonline-quartz-style',
+        // from data-repo-id
+        repoId: 'R_kgDOMJ3T2A',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMJ3T2M4CnMSe',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       about: "https://olu.online/about",
@@ -51,4 +65,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
+
 }
