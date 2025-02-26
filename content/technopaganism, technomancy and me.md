@@ -1,6 +1,7 @@
 ---
 tags:
   - in-progress
+modificationDate: 2025-02-26T19:07:00
 ---
 all the best things in my life were delivered to me by the internet. I've met chosen family members via chance in a Facebook group I joined by random encounter on Twitter. i work in tech due to Facebook ads.  I've made friends and lovers and found out people I thought close to me weren't at all through a screen.
 

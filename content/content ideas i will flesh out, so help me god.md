@@ -1,13 +1,15 @@
 ---
 type: Page
 title: video ideas | social media text post ideas | format ideas
-description: null
-icon: null
-createdAt: '2024-08-05T22:01:10.115Z'
+description: 
+icon: 
+createdAt: 2024-08-05T22:01:10.115Z
 creationDate: 2024-08-05 23:01
 modificationDate: 2024-09-01 13:09
-tags: []
-coverImage: null
+tags:
+  - video
+  - in-progress
+coverImage:
 ---
 1. overwhelm online: we're exposed to so much more info than ever before, and see so little of the sum total of it. FOMO/JOMO/our ancestors could never
 2. why is big tech sick of DEI?

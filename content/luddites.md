@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-Reading [Blood in the Machine](https://www.bloodinthemachine.com/) (the book, that's the substack by the author, Brian Merchant). 
+Reading [Blood in the Machine](https://www.bloodinthemachine.com/) (the book; that's the substack by the author, Brian Merchant). 
 
 Just learnt that Ned Ludd of Luddism is apocryphal so wonder what else I'll learn!
 

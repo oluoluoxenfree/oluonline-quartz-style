@@ -1,3 +1,7 @@
+---
+creationDate: 
+modificationDate: 2025-02-26T19:04:00
+---
 
  > This fetishisation of information access imagines people in a vacuum, as if the only thing standing between them and a future of flourishing is whether data is open and accessible. However, access to a life immersed in knowledge-seeking isn’t just about whether information is free, it’s also about whether _people_ are free from the constant demands of securing their basic material needs. - [The Boy's Own Internet, Reboot](https://joinreboot.org/p/the-boys-own-internet)
 

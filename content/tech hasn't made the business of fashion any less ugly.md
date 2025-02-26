@@ -1,6 +1,7 @@
 ---
 tags:
   - in-progress
+modificationDate:
 ---
 sewing can't all be done by a machine
 a human has touched and worked on every garment you own

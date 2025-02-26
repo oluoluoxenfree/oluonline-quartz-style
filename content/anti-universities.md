@@ -1,6 +1,7 @@
 ---
 tags:
   - in-progress
+modificationDate: 2025-02-26T19:06:00
 ---
 I wrote a piece that mentioned [university abolition](https://olu.online/abolition/#university-abolition).
 

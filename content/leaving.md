@@ -1,16 +1,22 @@
 ---
 last_updated: 2025-02-20T17:30:00
-modificationDate: 2025-02-20T17:30:00
+modificationDate: 2025-02-26T17:30:00
 creationDate: 2025-02-20T17:30:00
 tags:
   - alphabet-superset
   - in-progress
 ---
-In [this series](https://olu.online/blog/?q=alphabet-superset) i keep circling back around to social media; i've discussed in [bump/boost](/bump-boost), [discussion](/discussion) and i guess also in [home](/home). i am in some ways tired of thinking about it, and in others feel like i have to keep saying my piece in order to work through whatever feelings i have[^2]. 
+*this is probably gonna end up feeding into a video and i don't know if the blog post and the video will end up in the same place (spoiler: probably not)*
 
-everyone is leaving social media! or at least, thinking about leaving! okay, sorry, i should say corporate social media, the facebooks and twitters of the online world. and to be fair, a lot of them are actually still  in the long process of leaving, myself included. but where are we off to now? what's next? 
+---
 
- i see goodbye posts from long-standing meme pages, catch on me bluesky posts from people on the periphery of friend and acquaintance, 'we no longer can abide by this platform' posts from small businesses, in legion. 
+In [this series](https://olu.online/blog/?q=alphabet-superset) i keep circling back around to social media; i've discussed it in [bump/boost](https://olu.online/bump-boost), [discussion](https://olu.online/discussion) and i guess also in [home](https:///olu.online/home). i am in some ways tired of thinking about it, and in others feel like i have to keep saying my piece in order to work through whatever feelings i have[^2]. 
+
+everyone is leaving social media! or at least, thinking about leaving. okay, sorry, i should say corporate social media: the facebooks. twitters , instagrams and tiktoks of the online world. or, to be more exact, a lot of them are actually still in the long process of leaving, myself included.
+
+but where are we off to now? what's next? 
+
+i see goodbye posts from long-standing meme pages, catch on me bluesky posts from people on the periphery of friend and acquaintance, 'we no longer can abide by this platform' posts from small businesses, in legion. 
 
 being the kind of (extremely online!) person i am, i am constantly looking for a definitive answer to the eternal questions of social media. does it have to be shit? does it have to lead to danger and death and suicide and eating disorders, or influencers and fame and fortune and documenting every second of your life for views? must we be online to be connected? must i be online to be happy?
 
@@ -40,12 +46,9 @@ at the same time, i get that boycotts do things. starving the big platforms of a
 
 ---
 
-[^1]: i can drive myself insane trying to find resources i loved once, so i have to remind myself i will probably never find this site again with so little information; writing this footnote for me!
+[^1]: i can drive myself insane trying to find resources i loved once, so i have to remind myself i will probably never find this site again with so little information; writing this footnote for said reminder!
 [^2]: we're working it out in the remix, lorde/charli xcx style.
 [^3]: i don't know how you organise a mass boycott of social media, on social media or off, so i will leave that fight to other people.
-
-
-
 
 ---
 other resources:
@@ -54,6 +57,3 @@ you should go read the excellent [erin kissane's wreckage/salvage](https://www.w
 
 
 *This piece is part of my attempt at [Alphabet Superset](https://www.alphabetsuperset.com/), a 6-month creative challenge. Other posts so far: [abolition](https://olu.online/abolition/), [bump, boost](https://olu.online/bump-boost/), [culture](https://olu.online/culture/), [discussion](https://olu.online/discussion/), [english](https://olu.online/english/), [formulaic](https://olu.online/formulaic/) and [gone](https://olu.online/gone/).*
-
-
-[^3]: 

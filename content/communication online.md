@@ -1,6 +1,7 @@
 ---
 tags:
   - in-progress
+modificationDate: 2025-02-26T19:06:00
 ---
 
 - trying to say too much at once densely, with too many 3+ syllable words, doesn't seem to reach new people with ideas and probably means people don't engage as much with what you're saying unless they already agree? 
