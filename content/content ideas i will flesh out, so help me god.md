@@ -57,7 +57,7 @@ coverImage:
 45. industry plants, industry plans: can streaming sites purposefully make a hit?
 46. wtf is digital citizenship; does it make sense?
 48. anti-capture technology
-49. [[technopaganism, technomancy and me]]
+49. [[technopaganism (and technomancy) and me]]
 50. citizen science and how the internet and tech have enabled and crushed it
 51. [[tech hasn't made the business of fashion any less ugly]]
 52. digital landlordism
