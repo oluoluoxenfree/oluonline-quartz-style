@@ -3,7 +3,6 @@ tags:
   - in-progress
 modificationDate: 2025-02-26T19:06:00
 ---
-
 - trying to say too much at once densely, with too many 3+ syllable words, doesn't seem to reach new people with ideas and probably means people don't engage as much with what you're saying unless they already agree? 
 - i disagree a lot with people who say you have to have "done the reading" to participate in a convo - see [jargon](https://olu.online/jargon) for an attempt at explaining that - but understand that technical terms help speed up conversations for people that understand them 
 - nuance is lost online; [context collapse](https://en.wikipedia.org/wiki/Context_collapse) (where something is shared for one group of people ends up in front of another, and they don't get it, often with horrendous results and misunderstandings). people often put things down to lack of comprehension that i think is more accurately attributed to lack of context and distrust.
