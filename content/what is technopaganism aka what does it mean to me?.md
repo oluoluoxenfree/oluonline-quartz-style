@@ -2,10 +2,11 @@
 tags:
   - in-progress
 modification_date: 2025-02-26T19:07:00
+title: "technopaganism #1: what is technopaganism: aka, what does it mean to me?"
 ---
 all the best things in my life were delivered to me by the internet. I've met chosen family members through a facebook group I joined because of a random encounter on twitter. i work in tech due to facebook ads. i've made friends, found lovers on dating apps, and found out people I thought were close to me weren't who they said they were. all mediated through a screen.
 
-some people pray and I just... come up with the right incantation and search online.
+some people pray and I just... come up with the right combination of characters for my incantations[^1] and search online.
 
 this isn't to say I think everything online, digital or technologically "advanced" is always good, hopefully obviously, but I really believe in the transformative power of technology in its broadest sense. when i say broad i mean broad. *technology* spans further than the horizon, from humans harnessing the power of fire, water treatment works, fermentation and preservation of food to beyond, obviously, the computers you're reading this on/with. *transformative*, equally, means more than the qualities of creation, destruction, or sustainability. 
 
@@ -27,15 +28,6 @@ there's a whole community of [SASS witches](https://www.reddit.com/r/SASSWitches
 
 ---
 
-i feel like since TESCREAL/effective altruists have seized upon their bastardisation of the divine in this arena, it feels like a weird thing to admit being in awe of technology in any positive sense. for the unitiated, EA, or effective altruism, is the idea that you can use a mixture of stats, utilitarianism and cold hard cash to calculate and thus optimise the amount of good you can do with your career, and, ultimately, life, by following these simple steps! 
+*People keep asking what i mean by calling myself a technopagan, and as this snapshot hopefully shows It's still very much a work in progress. [buffy may have popularised the term](https://buffy.fandom.com/wiki/Technopagan) but i don't think that makes it any less useful to me. i hope this was vaguely informative!*
 
-[TESCREAL](https://en.wikipedia.org/wiki/TESCREAL) stands for "Transhumanism, Extropianism, Singularitarianism, (modern) Cosmism, Rationalism, Effective altruism, and longtermism", a list of words that you may not be familiar with but is beyond of the scope of this to break down for you here. they're all interconnected and interwoven as communities, mindsets and ultimately poltiical and social goals. 
-
-whilst i think some of the stuff that EA in particular cooked up was less misguided to begin with—i had a look in the Wayback Machine to make sure—gradually with growing power, influence and money the views there have crystallised into "we need to create as many digital humans as possible in the far-flung future, so all present concerns are largely irrelevant".
-
-as a teenager and young adult i was pretty into the idea of transhumanism, the singularity, rationalism to an extent and eventually effective altruism. it's important to think about how my views here could be misconstrued, so i'll be crystal clear; i don't think you can build god. what TESCREAL is trying to do is surpass our fleshy human limitations and achieve said godhood. on its face that might be laudable to some people, but if that means ignoring the terror and destruction around us as the world burns and our neighbours drown... i don't know how else to tell you it's not a good thing. 
-
----
-
-People keep asking what i mean by calling myself a technopagan, and as this snapshot hopefully shows it's still very much a work in progress. [buffy may have popularised the term](https://buffy.fandom.com/wiki/Technopagan) but i don't think that makes it any less useful to me, and i hope this was vaguely informative. 
-
+[^1]: https://udm14.com/ for google, but honestly why use google at this point? my personal fave at the minute is [marginalia](https://marginalia-search.com/) though that is mostly for [indie and small web](https://olu.notes.online/possible-technologies) sites. i use [kagi](https://kagi.com) at time of writing in march 2025, but mostly cos i got a free trial emailed to me to try it again lol. 
