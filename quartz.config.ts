@@ -6,6 +6,7 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "olu online",
@@ -18,7 +19,7 @@ const config: QuartzConfig = {
     locale: "en-US", // TODO: Change to "en-GB" if possible
     baseUrl: "notes.olu.online",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",

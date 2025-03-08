@@ -2,6 +2,8 @@
 title: "technopaganism #3: so what do you actually do?"
 tags:
   - in-progress
+creationDate: 2025-03-06T14:04:00
+modificationDate: 2025-03-07T14:04:00
 ---
 ## tarot
 

@@ -1,15 +1,11 @@
 ---
 type: Page
 title: video ideas | social media text post ideas | format ideas
-description: 
-icon: 
 createdAt: 2024-08-05T22:01:10.115Z
 creationDate: 2024-08-05 23:01
 modificationDate: 2024-09-01 13:09
 tags:
-  - video
-  - in-progress
-coverImage:
+  - ideas
 ---
 1. overwhelm online: we're exposed to so much more info than ever before, and see so little of the sum total of it. FOMO/JOMO/our ancestors could never
 2. why is big tech sick of DEI?
@@ -52,12 +48,12 @@ coverImage:
 40. government mass surveillance (gchq and fbi agent memes)
 41. unequal footings at uni and school due to geographical and money based divides in digital resources available
 42. school and uni were unwilling to provide digital options for attendance for disabled students till they were forced to by the pandemic
-43. [[do we need a "new spotify" or is streaming just shit?]]
+43. [[do we need a new spotify or is streaming just shit]]
 44. can we make the supply chains for our electronics completely ethical? (I have loads of notes for a video on congo and supply chains that never happened but i need to edit it before putting it in the garden lol)
 45. industry plants, industry plans: can streaming sites purposefully make a hit?
 46. wtf is digital citizenship; does it make sense?
 48. anti-capture technology
-49. [[what is technopaganism aka what does it mean to me?]]
+49. [[what is technopaganism aka what does it mean to me]]
 50. citizen science and how the internet and tech have enabled and crushed it
 51. [[tech hasn't made the business of fashion any less ugly]]
 52. digital landlordism

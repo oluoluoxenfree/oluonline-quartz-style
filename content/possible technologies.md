@@ -15,7 +15,7 @@ tags:
 - [[low technology]]
 - [[boring tech]]
 - [[computing within limits]]
-- [[disability-driven development]]
+- [[disability driven development]]
 - [[collapse informatics]]
 - [[salvage computing]]
 - [[degrowth technology]]

@@ -80,6 +80,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               "lastmod",
               "updated",
               "last-modified",
+              "last_modified",
             ])
             if (modified) data.modified = modified
             const published = coalesceAliases(data, ["published", "publishDate", "date"])

@@ -1,6 +1,7 @@
 ---
 last_updated: 2025-02-20T17:28:00
 modificationDate: 2025-02-20T17:28:00
+creationDate: 2025-02-20T14:09:00
 ---
 
 note: this was for a newsletter on the history of accessibility i tried to start for substack. 

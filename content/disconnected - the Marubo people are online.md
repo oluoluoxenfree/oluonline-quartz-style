@@ -1,6 +1,6 @@
 ---
 tags:
-  - in-progress
+  - paused
 last_updated: 2024-07-29T20:11:00
 modificationDate: 2025-02-26T19:04:00
 ---

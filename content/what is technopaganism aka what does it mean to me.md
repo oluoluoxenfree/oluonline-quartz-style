@@ -4,6 +4,10 @@ tags:
 modification_date: 2025-02-26T19:07:00
 title: "technopaganism #1: what is technopaganism: aka, what does it mean to me?"
 ---
+*People keep asking what i mean by calling myself a technopagan, and as this snapshot hopefully shows, my definition is still very much a work in progress. [buffy may have popularised the term](https://buffy.fandom.com/wiki/Technopagan) but i don't think that makes it any less useful to me. i hope this is vaguely informative!*
+
+---
+
 all the best things in my life were delivered to me by the internet. I've met chosen family members through a facebook group I joined because of a random encounter on twitter. i work in tech due to facebook ads. i've made friends, found lovers on dating apps, and found out people I thought were close to me weren't who they said they were. all mediated through a screen.
 
 some people pray and I just... come up with the right combination of characters for my incantations[^1] and search online.
@@ -28,6 +32,15 @@ there's a whole community of [SASS witches](https://www.reddit.com/r/SASSWitches
 
 ---
 
-*People keep asking what i mean by calling myself a technopagan, and as this snapshot hopefully shows It's still very much a work in progress. [buffy may have popularised the term](https://buffy.fandom.com/wiki/Technopagan) but i don't think that makes it any less useful to me. i hope this was vaguely informative!*
+technopaganism as the term - rather than technomancy[^2] or a new word - is mostly because i want to stay steeped in a heritage, even if its one i am still exploring, that is bound by place and heritage, to keep grounded and make sure the touching grass[^1] aspect of spirituality isn't completely forgotten in my [[so what do you actually do|practices]]. 
+
+
+
+
+---
 
 [^1]: https://udm14.com/ for google, but honestly why use google at this point? my personal fave at the minute is [marginalia](https://marginalia-search.com/) though that is mostly for [indie and small web](https://olu.notes.online/possible-technologies) sites. i use [kagi](https://kagi.com) at time of writing in march 2025, but mostly cos i got a free trial emailed to me to try it again lol. 
+
+[^2]: i kind of use the technopagan and technomancer interchangeably but for no real reason
+
+[^3]: does everyone know what this means? by 'touching grass' i mean "going outside - literally or spiritually - and being in the non-digital world to re-engage with your body".
