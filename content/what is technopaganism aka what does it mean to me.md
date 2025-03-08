@@ -32,7 +32,7 @@ there's a whole community of [SASS witches](https://www.reddit.com/r/SASSWitches
 
 ---
 
-technopaganism as the term - rather than technomancy[^2] or a new word - is mostly because i want to stay steeped in a heritage, even if its one i am still exploring, that is bound by place and heritage, to keep grounded and make sure the touching grass[^1] aspect of spirituality isn't completely forgotten in my [[so what do you actually do|practices]]. 
+technopaganism as the term - rather than technomancy[^2] or a new word - is mostly because i want to stay steeped in a heritage, even if its one i am still exploring, that is bound by place and heritage, to keep grounded and make sure the touching grass[^3] aspect of spirituality isn't completely forgotten in my [[so what do you actually do|practices]]. 
 
 
 
