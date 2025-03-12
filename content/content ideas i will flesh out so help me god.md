@@ -49,7 +49,7 @@ tags:
 41. unequal footings at uni and school due to geographical and money based divides in digital resources available
 42. school and uni were unwilling to provide digital options for attendance for disabled students till they were forced to by the pandemic
 43. [[do we need a new spotify or is streaming just shit]]
-44. can we make the supply chains for our electronics completely ethical? (I have loads of notes for a video on congo and supply chains that never happened but i need to edit it before putting it in the garden lol)
+44. can we make the supply chains for our electronics completely ethical? (I have loads of notes for a video on congo and supply chains that never happened but i need to edit - prune? -  it before putting it in the garden lol)
 45. industry plants, industry plans: can streaming sites purposefully make a hit?
 46. wtf is digital citizenship; does it make sense?
 48. anti-capture technology
