@@ -1,6 +1,4 @@
 ---
-tags:
-  - in-progress
 modificationDate:
 ---
 sewing can't be done by a machine

@@ -1,6 +1,4 @@
 ---
-tags:
-  - in-progress
 creationDate: 2025-02-26T19:07:00
 modificationDate: 2025-03-06T14:07:00
 ---
