@@ -3,21 +3,18 @@ title: welcome to the garden 🌿
 comments: "false"
 modificationDate: 2025-08-01T23:04:00
 ---
-hello there! i'm [Olu](https://olu.online/about).
+hello there! i'm [olu](https://olu.online/about).
 
 this [digital garden](https://maggieappleton.com/garden-history) is for thinking out loud, sketching things out, getting feedback and [learning in public](https://www.swyx.io/learn-in-public)/[working with the garage door up](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ)/[showing my work](https://austinkleon.com/show-your-work/). 
 
-i used to do this in a much more "my thoughts grow here, and once mature, are planted in my [blog](https://olu.online)" but i don't think this works well with how i think! so this notes site is going mostly append only, which means i will probably refer to it more and write at length less! more of a guerilla gardening vibe than a manicured lawn, for sure.
+i used to do this in a much more "my thoughts grow here, and once mature, are planted in my [blog](https://olu.online)" but i don't think this works well with [[how i think]]! so this notes site is going mostly append only, which means i will probably refer to it more and write at length less! more of a guerilla gardening vibe than a manicured lawn, for sure.
 
 please [get in touch](https://olu.online/contact) if anything strikes a nerve or speaks to you, or you have something to share.
-
 ## recent thoughts:
 
 - [[subsea cables]] - i'm reading *the undersea network* and my hyperfocus on these wires lives to fight another day
-- 
-
-
-
+- thinking a lot about topography of the web and the digital for a book (a book!) idea so we'll see if anything comes of it
+- reading [a bunch about mapping and tech too](https://placing.technology/)
 ## previous thoughts 
 
  1. Social media, and whether we need it. What will replace it, if anything, what it contributes and whether it's infrastructure.
