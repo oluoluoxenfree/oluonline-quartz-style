@@ -1,7 +1,7 @@
 ---
 title: welcome to the garden 🌿
 comments: "false"
-modificationDate: 2025-08-01T23:04:00
+modificationDate: 2025-08-02T19:54:00
 ---
 hello there! i'm [olu](https://olu.online/about).
 
@@ -15,6 +15,8 @@ please [get in touch](https://olu.online/contact) if anything strikes a nerve or
 - [[subsea cables]] - i'm reading *the undersea network* and my hyperfocus on these wires lives to fight another day
 - thinking a lot about topography of the web and the digital for a book (a book!) idea so we'll see if anything comes of it
 - reading [a bunch about mapping and tech too](https://placing.technology/)
+- [[what's the point of these notes]], anyway?
+- [[coding stuff]], mostly about malleable software (aka software the end user can manipulate)
 ## previous thoughts 
 
  1. Social media, and whether we need it. What will replace it, if anything, what it contributes and whether it's infrastructure.
@@ -27,14 +29,11 @@ please [get in touch](https://olu.online/contact) if anything strikes a nerve or
 8. Pluralism and its importance to creating healthy ecosystems of like, everything. I was originally trying to get at this with [build better webs](https://youtu.be/keMadxoWupc?si=BPBuNewzbHQgoZW-), though that went in a different direction in the end! I think people are right there are serious advantages to there being "one web", many things built on top, but what have we lost?
 9. Digital preservation, and how we decide what is worth preserving in a world with more info than storage space.
 10. Divesting from big tech, and what we do when we have neither the funds, the time nor inclination to build the next Google. 
-
-also!:
-
-- stuff on technopaganism:
+11. stuff on technopaganism:
 	- [[what is technopaganism aka what does it mean to me]]
 	- [[what technopaganism isn't]]
 	- [[so what do you actually do]]
-- [[leaving]] social media for [alphabet superset]()
+
 --- 
 
 wishing you more than well. 💟

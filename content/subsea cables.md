@@ -1,5 +1,5 @@
 ---
-modificationDate: 2025-08-01T23:14:00
+modificationDate: 2025-08-02T23:14:00
 ---
 - do the public know/is it easily gatherable info where the landing points for subsea cables are in the uk?
 - how many cables are there worldwide now?
@@ -8,3 +8,4 @@ modificationDate: 2025-08-01T23:14:00
 - should i make a video about this or do i need a hook? does [[disconnected - the Marubo people are online]] ride again?
 - are there more modern books on subsea cables besides *the undersea network*?
 - is there anyone i could write to if i do make a video about this?
+- didn't know the cables mostly lie in places that were previously used for ages for things like telegraph or which avoid existing fishing areas (the latter is more obvious but i still hadn't thought of it); convenience/existing agreements shaping things!
