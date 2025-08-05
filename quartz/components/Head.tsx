@@ -195,6 +195,7 @@ export default (() => {
           </>
         )}
         <link rel="icon" href={iconPath} />
+        <script data-goatcounter="https://notes-site.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
