@@ -13,7 +13,7 @@ please [get in touch](https://olu.online/contact) if anything strikes a nerve or
 ## recent thoughts:
 
 - [[subsea cables]] - i'm reading *the undersea network* and my hyperfocus on these wires lives to fight another day
-- thinking a lot about topography of the web and the digital for a book (a book!) idea so we'll see if anything comes of it
+- thinking a lot about [[topography of the web]] and the digital for a book (a book!) idea so we'll see if anything comes of it
 - reading [a bunch about mapping and tech too](https://placing.technology/)
 - [[what's the point of these notes]], anyway?
 - [[coding stuff]], mostly about malleable software (aka software the end user can manipulate)
