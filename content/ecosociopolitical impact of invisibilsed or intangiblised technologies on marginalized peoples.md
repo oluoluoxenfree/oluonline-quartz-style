@@ -1,0 +1,6 @@
+
+- Sociopolitical impact of internet and web technology on marginalised peoples
+- Do I mean “marginalised” or do I mean those affected by coloniality/imperialism and those impacted by ongoing discrimination? (question around this in questions section, or similar)
+- [Reflections on the impact of digital infrastructure and racism in traditional communities | Association for Progressive Communications](https://www.apc.org/en/pubs/reflections-impact-digital-infrastructure-and-racism-traditional-communities) 
+	- Who pays and who benefits? Disproportionately neighbourhoods and countries that have been historically and currently exploited. Rural communities are usually exploited for the extraction of materials needed for technological innovation 
+- [gutta percha](https://pkporthcurno.com/pk150/gutta-percha-ecological-impacts-and-unsustainability/), a rubbery material needed for the creation of the first subsea cables in the 1800s was extracted from southeast asia and lead to the collapse in population and near extinction of this type of tree due to the unsustainable practices used to produce enough for demand (Congo extraction relationship here)
