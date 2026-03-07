@@ -1,5 +1,7 @@
-
-Physicality of the web and internet; what is it?
+---
+updated: 2026-03-06T21:58:00
+---
+animals being affected by [[electromagnetic fields]] emitted by undersea, mitigated by burying or shielding (what is shielding?) the wires. 
 
 - On prem vs cloud infrastructure for companies
 - [The Geography of the Internet](https://www.e-elgar.com/shop/gbp/the-geography-of-the-internet-9781781953365.html) 

@@ -1,7 +1,7 @@
 ---
 title: welcome to the garden 🌿
 comments: "false"
-updated: 2026-03-06T19:54:00
+updated: 2026-03-06T21:56:00
 ---
 hello there! i'm [olu](https://olu.online/about).
 
@@ -9,22 +9,14 @@ this [digital garden](https://maggieappleton.com/garden-history) is for thinking
 
 i used to do this in a much more "my thoughts grow here, and once mature, are planted in my [blog](https://olu.online)" but i don't think this works well with [[how i think]]! so this notes site is going mostly append only, which means i will probably refer to it more and write at length less! more of a guerilla gardening vibe than a manicured lawn, for sure. 
 
-append, march 2026: i don't know what it would mean to ONLY append, as sometimes i don't agree with what i wrote and the pages get very long if i only add to them — thinking of my [ai](https://olu.online/ai) page — so I guess what i really mean is I'll try not to randomly delete or move stuff.
+**append, march 2026**: i don't know what it would mean to ONLY append, as sometimes i don't agree with what i wrote and the pages get very long if i only add to them — thinking of my [ai](https://olu.online/ai) page — so I guess what i really mean is I'll try not to randomly delete or move stuff.
 
 please [get in touch](https://olu.online/contact) if anything strikes a nerve or speaks to you, or you have something to share.
-## recent thoughts:
 
-I've been inspired by [nadia asparouhova's](https://nadia.xyz/open-source/) independent research on open source for a while, and her other writing about [structuring the work like a PhD](https://nadia.xyz/phd) and [independent research as a public service](https://nadia.xyz/independent-research). This is one of those things that lowkey changed my brain chemistry on reading however many years ago, and I then did nothing. Mostly because I "wasn't the kind of person" who gets a lucrative sponsorship or research job. 
-
-But, as nadia says in the last link:
-
-> Life is short. Do whatever you can’t stop thinking about. Documenting your findings in public (regardless of outcomes!) is a worthy contribution to society, full stop.
-
-So I'm not gonna focus on open source, but going deeper on the things that interest me and will expanding here on a lot of stuff I think. I am trying to use google docs less and write here more so we'll see! 
-
+you probably want [[recent thoughts]], or to skim this page to see if anything interests you, but I am not the boss of you! 
 ### current interests/focuses
 
-i think this is possibly best summed up as "the ecological impacts of the internet", but in case you want the long version:
+i think this is possibly best summed up as "[[the ecological impacts of the internet]]", but in case you want the long version:
 
 - [[invisibilised or intangiblised technologies]] (primarily interested in the internet but other seemingly wireless stuff is cool too)
 - the impact, on human and non-human bodies and life, of intangibilised/invisibilsed technology 
