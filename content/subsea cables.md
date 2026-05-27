@@ -1,0 +1,15 @@
+---
+modificationDate: 2025-08-26T20:54:00
+---
+- do the public know/is it easily gatherable info where the landing points for subsea cables are in the uk?
+- how many cables are there worldwide now?
+- how many are owned by big corporates? percentage?
+- what subsea cable projects are in progress/ideation?
+- should i make a video about this or do i need a hook? does [[disconnected - the Marubo people are online]] ride again?
+- are there more modern books on subsea cables besides [*the undersea network*](https://www.dukeupress.edu/the-undersea-network)?
+	- there's [*tubes*](https://www.andrewblum.net/tubes-2) but reviews don't seem great, might read it anyway
+	- otherwise looking like textbooks
+- is there anyone i could write to if i do make a video about this?
+- didn't know the cables mostly lie in places that were previously used for ages for things like telegraph or which avoid existing fishing areas (the latter is more obvious but i still hadn't thought of it); convenience/existing agreements shaping things!
+- https://www.submarinecablemap.com/
+- [are.na channel about subsea cables](https://www.are.na/olu-niyi-awosusi/subsea-cables-my-love)

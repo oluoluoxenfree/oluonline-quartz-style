@@ -1,0 +1,12 @@
+- need to come up with a set of fixed questions or at least themes for all guests
+	- on-road (corpo web) and off-road (small/poetic/etc webs)?
+		- i like this but maybe different words for it, i'll see what people think!
+		- i assume some people won't want to talk about the other side so maybe can start out saying the mix at the top of the episode
+- length of eps?
+	- i wanna say an hour but maybe that's a long time for most people. 
+	- other thing i wanna say is it's as long as it is lol? but unsure if that's wild. i feel like some marketing guru just started full body trembling
+- get a transcript made, reach back out to [academic audio transcription](https://academicaudiotranscription.com/)
+- make a lil checklist of stuff to make sure i say to each person
+	- audio check for sure 
+- editing software?
+- theme tune????
