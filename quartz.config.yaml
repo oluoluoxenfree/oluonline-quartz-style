@@ -220,8 +220,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        main site: https://olu.online
+        contact: https://olu.online/contact
+        projects: https://olu.online/projects
+        tip me: https://olu.online/coffee
+        rss feed: https://notes.olu.online/index.xml
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
