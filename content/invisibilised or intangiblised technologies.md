@@ -22,7 +22,3 @@ updated: 2026-03-06T19:44:00
 - Labour 
 - invisibilisation
 - Physicality of the web; what is it?
-    
-
-  
-**

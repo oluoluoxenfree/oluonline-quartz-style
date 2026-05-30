@@ -7,7 +7,7 @@ hello there! i'm [olu](https://olu.online/about).
 
 this [digital garden](https://maggieappleton.com/garden-history) is for thinking out loud, sketching things out, getting feedback and [learning in public](https://www.swyx.io/learn-in-public)/[working with the garage door up](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ)/[showing my work](https://austinkleon.com/show-your-work/). 
 
-i used to do this in a much more "my thoughts grow here, and once mature, are planted in my [blog](https://olu.online)" but i don't think this works well with [[how i think]]! so this notes site is going mostly append only, which means i will probably refer to it more and write at length less! more of a guerilla gardening vibe than a manicured lawn, for sure. 
+i used to do this in a much more "my thoughts grow here, and once mature, are planted in my [blog](https://olu.online)" but i don't think this works well with [[how i think]]! so this notes site is going mostly append only, which means i will probably refer to it more and write at length less! more of a guerrilla gardening vibe than a manicured lawn, for sure. 
 
 **append, march 2026**: i don't know what it would mean to ONLY append, as sometimes i don't agree with what i wrote and the pages get very long if i only add to them — thinking of my [ai](https://olu.online/ai) page — so I guess what i really mean is I'll try not to randomly delete or move stuff.
 
